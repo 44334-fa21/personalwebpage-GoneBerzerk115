@@ -1,1 +1,36 @@
-/*Personal Web Page Style Sheet */
+body{
+  background-color: lightblue;
+}
+h1{
+  color: navy;
+  margin-left: 20px
+  font-family: Arial, sans-serif;
+}
+h2{
+  color: white;
+  margin-left: 20px
+  font-family: Verdana, sans-serif;
+}
+h3{
+  color: grey;
+  margin-left: 20px
+  font-family: Georgia, sans-serif;
+}
+h4{
+  color: black;
+  margin-left: 20px
+  font-family: Garamond, sans-serif;
+}
+h5{
+  color: blue;
+  margin-left: 20px
+  font-family: Verdana, sans-serif;
+}
+ul{
+  color: purple;
+  margin-left: 20px
+  font-family: Garamond, sans-serif;
+}
+nav {float: left;
+      width: 300px;}
+body { margin-left: 0px; }
